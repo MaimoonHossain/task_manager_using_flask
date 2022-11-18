@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+  color: black;
+  text-align: center;
+}
+
+table,
+tr,
+td {
+  margin: auto;
+  width: 50%;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
